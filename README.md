@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ranjith Varatharajan</h1>
 <h3 align="center">A passionate frontend developer, Low-Code enthusiast from India</h3>
+<p align="center"><img src="https://varanjith.com/assets/images/site/programmer.gif" height=250/></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjithvaratharajan&label=Profile%20views&color=0e75b6&style=flat" alt="ranjithvaratharajan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://varanjith.com/assets/images/site/programmer.gif" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ranjithvaratharajan&label=Profile%20views&color=0e75b6&style=flat" alt="ranjithvaratharajan" /> </p>
 
 - 🔭 I’m currently working on [outsystems low-code](https://personal-wpybsbix.outsystemscloud.com/WormFarmingUI)
 
