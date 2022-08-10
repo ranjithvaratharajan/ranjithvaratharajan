@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjithvaratharajan&label=Profile%20views&color=0e75b6&style=flat" alt="ranjithvaratharajan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranjithvaratharajan" alt="ranjithvaratharajan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://varanjith.com/assets/images/site/programmer.gif" /></a> </p>
 
 - 🔭 I’m currently working on [outsystems low-code](https://personal-wpybsbix.outsystemscloud.com/WormFarmingUI)
 
