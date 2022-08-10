@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ranjith Varatharajan</h1>
-<h3 align="center">A passionate frontend developer, Low-Code enthusiast from India</h3>
+<h3 align="center">A passionate frontend developer & Low-Code enthusiast from India</h3>
 <p align="center"><img src="https://varanjith.com/assets/images/site/programmer.gif" height=250/></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ranjithvaratharajan&label=Profile%20views&color=0e75b6&style=flat" alt="ranjithvaratharajan" /> </p>
