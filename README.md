@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **outsystems low-code development**
 
-- 👨‍💻 All of my projects are available at [https://varanjith.com](https://varanjith.com)
+- 👨‍💻 All of my projects are available at [https://ranjithvaratharajan.com](https://ranjithvaratharajan.com)
 
 - 💬 Ask me about **angular, asp.net, c#, reactjs, outsystems**
 
 - 📫 How to reach me **hello@varanjith.com**
 
-- 📄 Know about my experiences [https://varanjith.com](https://varanjith.com)
+- 📄 Know about my experiences [https://ranjithvaratharajan.com](https://ranjithvaratharajan.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
