@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **angular, asp.net, c#, reactjs, outsystems**
 
-- 📫 How to reach me **hello@varanjith.com**
+- 📫 How to reach me **hello@ranjithvaratharajan.com**
 
 - 📄 Know about my experiences [https://ranjithvaratharajan.com](https://ranjithvaratharajan.com)
 
